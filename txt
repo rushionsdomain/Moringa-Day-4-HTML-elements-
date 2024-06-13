@@ -1,0 +1,78 @@
+Today's work: Presented by Mentor Samuel Maingi holds content on HTML Elements and anipulation of HTML language.
+Some elements learned:
+
+
+<!DOCTYPE html>
+
+
+<html>
+<head>
+  <title>HTML Elements</title>
+</head>
+<body>
+  <h1>HTML Elements</h1>
+  <p>Sure! Here is a comprehensive list of HTML elements, organized from common and essential elements down to more specific and less commonly used ones.</p>
+  
+  <!-- Rest of the HTML content -->
+  
+</body>
+</html>
+/home/gail/Documents/day4/txt
+
+
+### Document Structure
+- `<!DOCTYPE>`: Defines the document type.
+- `<html>`: Root element of an HTML document.
+- `<head>`: Contains meta-information about the document.
+- `<body>`: Contains the content of the document.
+
+### Metadata
+- `<title>`: Sets the title of the document (shown in the browser's title bar or tab).
+- `<meta>`: Provides metadata such as character set, page description, keywords, author of the document, and viewport settings.
+- `<link>`: Defines the relationship between the current document and an external resource (used for linking to stylesheets).
+- `<style>`: Contains CSS styling rules.
+- `<base>`: Specifies the base URL for all relative URLs in a document.
+
+### Content Sectioning
+- `<header>`: Represents introductory content, typically a group of introductory or navigational aids.
+- `<nav>`: Defines a set of navigation links.
+- `<section>`: Defines a section in a document.
+- `<article>`: Represents a self-contained piece of content that can be independently distributed or reused.
+- `<aside>`: Represents a portion of a document whose content is only indirectly related to the document's main content.
+- `<footer>`: Represents the footer for its nearest sectioning content or sectioning root element.
+- `<main>`: Represents the dominant content of the `<body>`.
+- `<address>`: Provides contact information for a person or organization.
+
+### Text Content
+- `<p>`: Defines a paragraph.
+- `<h1>` to `<h6>`: Define HTML headings.
+- `<blockquote>`: Defines a section that is quoted from another source.
+- `<ol>`: Defines an ordered list.
+- `<ul>`: Defines an unordered list.
+- `<li>`: Defines a list item.
+- `<dl>`: Defines a description list.
+- `<dt>`: Defines a term in a description list.
+- `<dd>`: Describes the term in a description list.
+- `<figure>`: Specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+- `<figcaption>`: Defines a caption for a `<figure>` element.
+- `<div>`: Defines a division or a section in an HTML document.
+
+### Inline Text Semantics
+- `<a>`: Defines a hyperlink.
+- `<strong>`: Defines important text.
+- `<em>`: Defines emphasized text.
+- `<br>`: Inserts a single line break.
+- `<span>`: Defines a section in a document.
+- `<mark>`: Highlights text.
+- `<small>`: Defines smaller text.
+- `<del>`: Defines text that has been deleted from a document.
+- `<ins>`: Defines text that has been inserted into a document.
+- `<sub>`: Defines subscripted text.
+- `<sup>`: Defines superscripted text.
+- `<b>`: Defines bold text.
+- `<i>`: Defines italic text.
+- `<u>`: Defines underlined text.
+- `<abbr>`: Defines an abbreviation.
+- `<code>`: Defines a piece of computer code.
+- `<pre>`: Defines preformatted text.
+- `<cite>`: Defines the title of a work.
